@@ -1,4 +1,6 @@
 # RaceTrack
+[![Code Review](http://www.zomis.net/codereview/shield/?qid=100714)](http://codereview.stackexchange.com/q/100714/75587) 
+
 A game created in response to [a challenge](http://meta.codereview.stackexchange.com/questions/5623/august-2015-community-challenge?cb=1) on http://codereview.stackexchange.com/
 
 Review of this game:
